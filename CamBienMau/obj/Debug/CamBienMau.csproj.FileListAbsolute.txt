@@ -19,3 +19,14 @@ C:\Users\thanh\OneDrive - Hanoi University of Science and Technology\Desktop\Cam
 C:\Users\thanh\OneDrive - Hanoi University of Science and Technology\Desktop\CamBienMau\CamBienMau\obj\Debug\CamBienMau.exe
 C:\Users\thanh\OneDrive - Hanoi University of Science and Technology\Desktop\CamBienMau\CamBienMau\obj\Debug\CamBienMau.pdb
 C:\Users\thanh\OneDrive - Hanoi University of Science and Technology\Desktop\CamBienMau\CamBienMau\obj\Debug\CamBienMau.csproj.CopyComplete
+D:\Documents 2\GitHub\Color-Sensor\CamBienMau\bin\Debug\CamBienMau.exe.config
+D:\Documents 2\GitHub\Color-Sensor\CamBienMau\bin\Debug\CamBienMau.exe
+D:\Documents 2\GitHub\Color-Sensor\CamBienMau\bin\Debug\CamBienMau.pdb
+D:\Documents 2\GitHub\Color-Sensor\CamBienMau\obj\Debug\CamBienMau.csprojAssemblyReference.cache
+D:\Documents 2\GitHub\Color-Sensor\CamBienMau\obj\Debug\CamBienMau.Form1.resources
+D:\Documents 2\GitHub\Color-Sensor\CamBienMau\obj\Debug\CamBienMau.Properties.Resources.resources
+D:\Documents 2\GitHub\Color-Sensor\CamBienMau\obj\Debug\CamBienMau.csproj.GenerateResource.cache
+D:\Documents 2\GitHub\Color-Sensor\CamBienMau\obj\Debug\CamBienMau.csproj.CoreCompileInputs.cache
+D:\Documents 2\GitHub\Color-Sensor\CamBienMau\obj\Debug\CamBienMau.csproj.CopyComplete
+D:\Documents 2\GitHub\Color-Sensor\CamBienMau\obj\Debug\CamBienMau.exe
+D:\Documents 2\GitHub\Color-Sensor\CamBienMau\obj\Debug\CamBienMau.pdb

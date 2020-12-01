@@ -165,7 +165,6 @@ namespace CamBienMau
             this.lbNam.Name = "lbNam";
             this.lbNam.Size = new System.Drawing.Size(310, 41);
             this.lbNam.TabIndex = 18;
-            this.lbNam.Text = "Nguyễn Hoàng Nam - 20176831";
             // 
             // label6
             // 
@@ -187,7 +186,7 @@ namespace CamBienMau
             this.lbGiang.Name = "lbGiang";
             this.lbGiang.Size = new System.Drawing.Size(310, 41);
             this.lbGiang.TabIndex = 17;
-            this.lbGiang.Text = "Giang không OCCHOS";
+            this.lbGiang.Text = "Nguyễn Thành Đô - 20161016";
             // 
             // dataGridView1
             // 
