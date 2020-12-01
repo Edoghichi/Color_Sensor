@@ -1,0 +1,21 @@
+C:\Users\giang\Desktop\CamBienMau\CamBienMau\bin\Debug\CamBienMau.exe.config
+C:\Users\giang\Desktop\CamBienMau\CamBienMau\bin\Debug\CamBienMau.exe
+C:\Users\giang\Desktop\CamBienMau\CamBienMau\bin\Debug\CamBienMau.pdb
+C:\Users\giang\Desktop\CamBienMau\CamBienMau\obj\Debug\CamBienMau.csprojAssemblyReference.cache
+C:\Users\giang\Desktop\CamBienMau\CamBienMau\obj\Debug\CamBienMau.Form1.resources
+C:\Users\giang\Desktop\CamBienMau\CamBienMau\obj\Debug\CamBienMau.Properties.Resources.resources
+C:\Users\giang\Desktop\CamBienMau\CamBienMau\obj\Debug\CamBienMau.csproj.GenerateResource.cache
+C:\Users\giang\Desktop\CamBienMau\CamBienMau\obj\Debug\CamBienMau.csproj.CoreCompileInputs.cache
+C:\Users\giang\Desktop\CamBienMau\CamBienMau\obj\Debug\CamBienMau.exe
+C:\Users\giang\Desktop\CamBienMau\CamBienMau\obj\Debug\CamBienMau.pdb
+C:\Users\thanh\OneDrive - Hanoi University of Science and Technology\Desktop\CamBienMau\CamBienMau\bin\Debug\CamBienMau.exe.config
+C:\Users\thanh\OneDrive - Hanoi University of Science and Technology\Desktop\CamBienMau\CamBienMau\bin\Debug\CamBienMau.exe
+C:\Users\thanh\OneDrive - Hanoi University of Science and Technology\Desktop\CamBienMau\CamBienMau\bin\Debug\CamBienMau.pdb
+C:\Users\thanh\OneDrive - Hanoi University of Science and Technology\Desktop\CamBienMau\CamBienMau\obj\Debug\CamBienMau.csprojAssemblyReference.cache
+C:\Users\thanh\OneDrive - Hanoi University of Science and Technology\Desktop\CamBienMau\CamBienMau\obj\Debug\CamBienMau.Form1.resources
+C:\Users\thanh\OneDrive - Hanoi University of Science and Technology\Desktop\CamBienMau\CamBienMau\obj\Debug\CamBienMau.Properties.Resources.resources
+C:\Users\thanh\OneDrive - Hanoi University of Science and Technology\Desktop\CamBienMau\CamBienMau\obj\Debug\CamBienMau.csproj.GenerateResource.cache
+C:\Users\thanh\OneDrive - Hanoi University of Science and Technology\Desktop\CamBienMau\CamBienMau\obj\Debug\CamBienMau.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive - Hanoi University of Science and Technology\Desktop\CamBienMau\CamBienMau\obj\Debug\CamBienMau.exe
+C:\Users\thanh\OneDrive - Hanoi University of Science and Technology\Desktop\CamBienMau\CamBienMau\obj\Debug\CamBienMau.pdb
+C:\Users\thanh\OneDrive - Hanoi University of Science and Technology\Desktop\CamBienMau\CamBienMau\obj\Debug\CamBienMau.csproj.CopyComplete
